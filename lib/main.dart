@@ -1,3 +1,5 @@
+// ignore_for_file: sized_box_for_whitespace
+
 import 'package:flutter/material.dart';
 
 void main() {
@@ -47,6 +49,7 @@ class _MyHomePageState extends State<MyHomePage> {
             // AŞAĞIDAKİ ALANA CONTAİNER EKLEYİNİZ
             // ----- CONTAİNER İÇERİSİNE ROW EKLEYİNİZ.
             //----------------------------
+            
             //----------------------------
             //----------------------------
             //----------------------------
